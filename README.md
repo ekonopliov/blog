@@ -2,7 +2,7 @@
 Blog REST API
 
 # Build and run  
-Precondition: Docker up and running  
+Preconditions: Docker up and running, Maven 3.6.3, OpenJDK11 (and all PATHs)
   
 At root directory:  
 docker-compose up -d  
