@@ -19,5 +19,5 @@ URI|request|response|description
 /v1/posts/{id}|PUT {title:'title string', content: 'content string'} |204, no content in body| Update a certain posts by id
 /v1/posts/{id}|DELETE|204, no content| Delete a post by id 
 
-Same structure goes for a users  
+Same structure goes for a users with base url `/users`
 
