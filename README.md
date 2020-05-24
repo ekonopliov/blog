@@ -1,7 +1,7 @@
 # Blog REST API example
 Blog REST API
 
-# build and run  
+# Build and run  
 Precondition: Docker up and running  
   
 At root directory:  
